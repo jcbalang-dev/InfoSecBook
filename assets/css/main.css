@@ -1,0 +1,44 @@
+body {
+    font-family: VistaSlab;
+    font-size: 115%;
+}
+.navbar-brand:hover {
+    color:#ec3429;
+}
+h1:hover {
+    color:#ec3429;
+}
+h5:hover {
+    color: #ec3429;
+}
+.navbar {
+    padding: 1%;
+    background-color: #f8f9fa;
+}
+.navbar-toggler:hover {
+    color:#ec3429;
+}
+.nav-link:hover {
+    color: #ec3429;
+}
+.dropdown-item:hover {
+    color:#ec3429;
+}
+.dropdown-item:active {
+    background-color: #fff;
+}
+.carousel img {
+    margin: auto;
+}
+.copyright-footer:hover  {
+    color:#ec3429;
+}
+@media (max-width:575px){
+    .carousel-caption {
+        display: none;
+    }
+    .copyright {
+        text-align: center;
+    }
+}
+  
