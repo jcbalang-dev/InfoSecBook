@@ -1,0 +1,16 @@
+.about-me-bg {
+    background-image:url("/assets/images/about-me/about-me.jpg");
+    height: 500px;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+.about-me {
+    color:white;
+    padding-left: 1%;
+    padding-top:9%;
+    font-family: VistaSlab;
+    line-height:2em;
+}
