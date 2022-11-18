@@ -14,3 +14,8 @@
     font-family: VistaSlab;
     line-height:2em;
 }
+@media (max-width:575px){
+    .about-me {
+        padding-top: 15%;
+    }
+}
