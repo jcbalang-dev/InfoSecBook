@@ -15,8 +15,10 @@
     line-height:2em;
 }
 @media (max-width:575px){
+    .introduction {
+        margin-top: 10%;
+    }
     .about-me {
-        padding-top: 15%;
         padding: 2%;
     }
 }
