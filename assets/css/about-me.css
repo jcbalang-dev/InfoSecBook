@@ -30,6 +30,9 @@
     }
 }
 @media (max-width:575px){
+    h1{
+        margin-top: 10%;
+    }
     .introduction {
         margin-top: 0;
     }
