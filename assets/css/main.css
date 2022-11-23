@@ -38,7 +38,7 @@ h5:hover {
 }
 @media (max-width:575px){
     header {
-        padding: 1%;
+        padding: 2%;
     }
     .carousel-caption {
         display: none;
