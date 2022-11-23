@@ -33,4 +33,10 @@
     h1{
         margin-top: 10%;
     }
+    .introduction {
+        margin-top: 0;
+    }
+    .about-me {
+        padding: 2%;
+    }
 }
