@@ -37,6 +37,9 @@ h5:hover {
     color:#ec3429;
 }
 @media (max-width:575px){
+    header {
+        padding: 1%;
+    }
     .carousel-caption {
         display: none;
     }
