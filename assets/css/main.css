@@ -53,6 +53,13 @@ h5:hover {
 .copyright-footer:hover  {
     color:#ec3429;
 }
+.copyright-hyperlink {
+    text-decoration: none;
+    color:#000;
+}
+.copyright-hyperlink:hover {
+    color:#ec3429;
+}
 @media (max-width:768px){
     h1 {
         margin-top:15%;
