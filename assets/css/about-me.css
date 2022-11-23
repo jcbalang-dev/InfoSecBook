@@ -17,5 +17,6 @@
 @media (max-width:575px){
     .about-me {
         padding-top: 15%;
+        padding: 2%;
     }
 }
