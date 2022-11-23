@@ -1,6 +1,7 @@
 body {
     font-family: VistaSlab;
     font-size: 115%;
+    overflow-x: hidden;
 }
 .navbar-brand:hover {
     color:#ec3429;
