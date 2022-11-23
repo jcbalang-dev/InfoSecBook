@@ -31,7 +31,7 @@
 }
 @media (max-width:575px){
     .introduction {
-        margin-top: 2%;
+        margin-top: 0;
     }
     .about-me {
         padding: 2%;
