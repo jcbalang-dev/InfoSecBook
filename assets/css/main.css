@@ -34,7 +34,15 @@ h5:hover {
 .copyright-footer:hover  {
     color:#ec3429;
 }
+@media (max-width:768px){
+    body {
+        overflow-x: hidden;
+    }
+}
 @media (max-width:575px){
+    body {
+        overflow-x: hidden;
+    }
     .carousel-caption {
         display: none;
     }
